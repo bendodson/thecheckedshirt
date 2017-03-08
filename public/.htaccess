@@ -1,0 +1,13 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www.thecheckedshirt.com [NC]
+RewriteRule ^(.*)$ https://thecheckedshirt.com/$1 [L,R=301]
+
+<ifModule mod_headers.c>
+<filesMatch ".(php|html)$">
+Header set Cache-Control "private, no-cache, no-store, proxy-revalidate, no-transform" 
+Header set Pragma "no-cache" 
+</filesMatch>
+</ifModule>
+
+RewriteRule ^episode-(.*)$ episode.php?index=$1 [L]

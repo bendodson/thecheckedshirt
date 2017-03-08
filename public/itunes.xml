@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+    xmlns:admin="http://webns.net/mvcb/" 
+    xmlns:atom="http://www.w3.org/2005/Atom/" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>The Checked Shirt</title>
+        <link>https://thecheckedshirt.com/</link>
+        <language>en-gb</language>
+        <copyright>&#x2117; &amp; &#xA9; 2017 Jason Kneen and Ben Dodson</copyright>
+        <itunes:subtitle>A look at freelance life by Jason Kneen and Ben Dodson</itunes:subtitle>
+        <itunes:author>The Checked Shirt</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:summary>Jason and Ben talk about freelancing, apps, and tech news with a healthy skew towards Apple.</itunes:summary>
+        <description>As freelancers who met on Twitter, Jason and Ben discuss their work, their lives, and some of their more tricky clients. They also discuss apps, computer games, and tech news with a focus on Apple.</description>
+        <itunes:owner>
+            <itunes:name>Jason Kneen</itunes:name>
+            <itunes:email>jason.kneen@bouncingfish.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png" />
+        <itunes:category text="Technology" />
+        <itunes:category text="Tech News" />
+
+        <item>
+            <title>04. Nintendo Switch, Video Plus+, Old Technology, and Apple Photos</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Piers Morgan: The shittest Bond</itunes:subtitle>
+            <itunes:summary>In our fourth show, we discuss the Nintendo Switch before ending up on a 1.5 hour tangent about old technology we could never explain to kids. Join us on a walk down memory lane as we reminisce about VCR rewinding, Video Plus+, Minidiscs, APS camera rolls, modems, and the hassle of printers.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our fourth show, we discuss the Nintendo Switch before ending up on a 1.5 hour tangent about old technology we could never explain to kids. Join us on a walk down memory lane as we reminisce about VCR rewinding, Video Plus+, Minidiscs, APS camera rolls, and the hassle of printers.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/04.mp3" type="audio/mp3" length="84592881"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/04.mp3</guid>
+            <pubDate>Wed, 8 Mar 2017 13:00:00 GMT</pubDate>
+            <itunes:duration>1:50:52</itunes:duration>
+            <itunes:keywords>Nintendo Switch, VCR, Technology, Modem, Printer, Camera, Apple Photos</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>4</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/04.jpg</tcsbackground>
+        </item>
+
+        <item>
+            <title>03. Dying iMacs, Random Sewing Machine delivery, and the Nintendo Switch</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>An experiment in Beats battery life</itunes:subtitle>
+            <itunes:summary>In the third show we talk about iMacs, the BeatsX headphones, Delivery services, Wifi Calling and Spam Calls, Lego Dimensions, TitanFall 2, The new Nintendo Switch and more!</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In the third show we talk about iMacs, the BeatsX headphones, Delivery services, Wifi Calling and Spam Calls, Lego Dimensions, TitanFall 2, The new Nintendo Switch and more!&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/03.mp3" type="audio/mp3" length="84592881"/>
+            <guid>http://www.bouncingfish.com/podcasts/tcs/03.mp3</guid>
+            <pubDate>Wed, 22 Feb 2017 22:05:00 GMT</pubDate>
+            <itunes:duration>1:50:52</itunes:duration>
+            <itunes:keywords>Apple, BeatsX, Switch, Nintendo, Zelda, Yodel, DPD, Amazon, Apple TV, LEGO, LEGO Dimensions</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>3</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/03.jpg</tcsbackground>
+        </item>
+
+        <item>
+            <title>02. Taxes, Apple Earnings, Freelance Prospects, Apple Watch, and VR/AR Rumours</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Deep is the cut from the tax knife</itunes:subtitle>
+            <itunes:summary>In the second show we talk about business taxes, saving, spending plus Apple financial results, and rumors of Apple entering VR and AR.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In the second show we talk about business taxes, saving, spending plus Apple financial results, and rumors of Apple entering VR and AR.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/02.mp3" type="audio/mp3" length="93728834"/>
+            <guid>http://www.bouncingfish.com/podcasts/tcs/02.mp3</guid>
+            <pubDate>Wed, 8 Feb 2017 13:35:00 GMT</pubDate>
+            <itunes:duration>2:10:11</itunes:duration>
+            <itunes:keywords>Apple, VAT, Tax, Invoicing, Business, Apple Watch, Freelance, AR, VR</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>2</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/02.jpg</tcsbackground>
+        </item>
+
+        <item>
+            <title>01. Lost AirPods, iOS 10.3 beta, AppStore changes and Invoicing</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Not just the AirPods, but their case as well!</itunes:subtitle>
+            <itunes:summary>In the first show we talk lost AirPods, the W1 chip, Touchbar keyboards, and more.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In the first show we talk lost AirPods, the W1 chip, Touchbar keyboards, and more.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/01.mp3" type="audio/mp3" length="127579052"/>
+            <guid>http://www.bouncingfish.com/podcasts/tcs/01.mp3</guid>
+            <pubDate>Wed, 25 Jan 2017 13:00:00 GMT</pubDate>
+            <itunes:duration>2:08:51</itunes:duration>
+            <itunes:keywords>Apple, Tech, Business, News, Apps, Freelancing</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>1</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/01.jpg</tcsbackground>
+        </item>
+
+    </channel>
+</rss>
