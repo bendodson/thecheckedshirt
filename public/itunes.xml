@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>05. Apple's Press Release Products and speculation of an April Event</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>See if you can tell when Jason isn't listening...</itunes:subtitle>
+            <itunes:summary>In our fifth show, we discuss our VPN usage, WiFi vs HomePlug, and Sonos speakers before moving onto the new products that Apple announced via press release yesterday. We also speculate about a possible Mac event in April and discuss how Apple names its products.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our fifth show, we discuss our VPN usage, WiFi vs HomePlug, and Sonos speakers before moving onto the new products that Apple announced via press release yesterday. We also speculate about a possible Mac event in April and discuss how Apple names its products.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/05.mp3" type="audio/mp3" length="96043795"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/05.mp3</guid>
+            <pubDate>Wed, 22 Mar 2017 12:45:00 GMT</pubDate>
+            <itunes:duration>1:57:52</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>5</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/05.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>04. Nintendo Switch, Video Plus+, Old Technology, and Apple Photos</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Piers Morgan: The shittest Bond</itunes:subtitle>
