@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>06. Mac Pro, iMacs, Apple Monitors, Samsung Galaxy S8, The Nokia Game, WiFi Woes, and the Ring Video Doorbell</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Family sharing so good it'll make you have kids</itunes:subtitle>
+            <itunes:summary>In our sixth show, we discuss the recent announcement from Apple that the Mac Pro isn't dead. We also discuss upcoming iMacs and Apple monitors, the Samsung Galaxy S8, The Nokia Game, and Jason's recent issues with WiFi.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our sixth show, we discuss the recent announcement from Apple that the Mac Pro isn't dead. We also discuss upcoming iMacs and Apple monitors, the Samsung Galaxy S8, The Nokia Game, and Jason's recent issues with WiFi.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/06.mp3" type="audio/mp3" length="88159394"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/06.mp3</guid>
+            <pubDate>Wed, 5 Apr 2017 12:45:00 GMT</pubDate>
+            <itunes:duration>1:51:29</itunes:duration>
+            <itunes:keywords>Mac Pro, iMac, Apple, Samsung, S8, Nokia Game, WiFi, Ring Doorbell, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>6</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/06.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>05. Apple's Press Release Products and speculation of an April Event</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>See if you can tell when Jason isn't listening...</itunes:subtitle>
@@ -38,7 +57,7 @@
             <guid>https://bendodson.s3.amazonaws.com/tcs/05.mp3</guid>
             <pubDate>Wed, 22 Mar 2017 12:45:00 GMT</pubDate>
             <itunes:duration>1:57:52</itunes:duration>
-            <itunes:keywords></itunes:keywords>
+            <itunes:keywords>Apple, VPN, WiFi, HomePlug, Sonos, iPhone</itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
             <tcsepisode>5</tcsepisode>
             <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/05.jpg</tcsbackground>
