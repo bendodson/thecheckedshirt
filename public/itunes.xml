@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>07. Holidays, Drones, Mac Pro, PC Tinkering, Star Wars Episode VIII, Trailers, and the 2017 General Election</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Living like an animal without internet</itunes:subtitle>
+            <itunes:summary>In our seventh show, we discuss Jason's holiday and his almost barbarically slow internet. We also discuss drones (both the Mavic Pro, Bebop, and Hover Camera Passport), the Mac Pro, tinkering with PC optimisations, the Star Wars Episode VIII trailer, and the "snap" 2017 General Election.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our seventh show, we discuss Jason's holiday and his almost barbarically slow internet. We also discuss drones (both the Mavic Pro, Bebop, and Hover Camera Passport), the Mac Pro, tinkering with PC optimisations, the Star Wars Episode VIII trailer, and the "snap" 2017 General Election.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/07.mp3" type="audio/mp3" length="72966600"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/07.mp3</guid>
+            <pubDate>Thu, 20 Apr 2017 12:30:00 GMT</pubDate>
+            <itunes:duration>1:56:38</itunes:duration>
+            <itunes:keywords>Drone, Mavic Pro, Bebop, Hover Camera Passport, Mac Pro, Star Wars, Trailers, Election, UK, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>7</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/07.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>06. Mac Pro, iMacs, Apple Monitors, Samsung Galaxy S8, The Nokia Game, WiFi Woes, and the Ring Video Doorbell</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Family sharing so good it'll make you have kids</itunes:subtitle>
