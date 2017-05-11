@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>08. Headphones, Sonos, Amazon Echo Look &amp; View, Siri, Alexa, Apple Store repairs and our origin stories</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>How Jason nearly became an architect and Ben moonlighted on apps</itunes:subtitle>
+            <itunes:summary>In our eighth show, we discuss how we got into the freelance app business. We also discuss working with headphones, Sonos, the new Amazon Echo Look and View, Siri, Alexa, and the repair service from the Apple Store.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our eighth show, we discuss how we got into the freelance app business. We also discuss working with headphones, Sonos, the new Amazon Echo Look and View, Siri, Alexa, and the repair service from the Apple Store.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/08.mp3" type="audio/mp3" length="87912403"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/08.mp3</guid>
+            <pubDate>Thu, 11 May 2017 12:30:00 GMT</pubDate>
+            <itunes:duration>2:15:36</itunes:duration>
+            <itunes:keywords>Freelance, App, Headphones, Sonos, Amazon, Echo, Siri, Alexa, Apple Store, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>8</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/08.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>07. Holidays, Drones, Mac Pro, PC Tinkering, Star Wars Episode VIII, Trailers, and the 2017 General Election</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Living like an animal without internet</itunes:subtitle>
