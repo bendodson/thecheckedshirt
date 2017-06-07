@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>09. Vibram Furoshiki, Virgin Media, and a leaky tent. Oh, and WWDC (obvs)</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Lady in a tube.</itunes:subtitle>
+            <itunes:summary>In our ninth show, we catchup about what we've been doing over the past month before leaping into the announcements from WWDC including iOS 11, macOS High Sierra, the new 10.5" iPad, iMac Pro, and the HomePod.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our ninth show, we catchup about what we've been doing over the past month before leaping into the announcements from WWDC including iOS 11, macOS High Sierra, the new 10.5" iPad, iMac Pro, and the HomePod.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/09.mp3" type="audio/mp3" length="76778739"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/09.mp3</guid>
+            <pubDate>Wed, 7 Jun 2017 16:30:00 GMT</pubDate>
+            <itunes:duration>2:04:17</itunes:duration>
+            <itunes:keywords>WWDC, 2017, Apple, iMac Pro, iOS 11, watchOS 4, macOS High Sierra, HomePod, Virgin Media</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>9</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/09.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>08. Headphones, Sonos, Amazon Echo Look &amp; View, Siri, Alexa, Apple Store repairs and our origin stories</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>How Jason nearly became an architect and Ben moonlighted on apps</itunes:subtitle>
