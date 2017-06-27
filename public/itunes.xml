@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>10. New iPad Pro, iOS 11, ARKit, and connected devices we've been tinkering with</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Going Stallone on my neck.</itunes:subtitle>
+            <itunes:summary>In our tenth show, we discuss chiropractors, the 10.5" iPad Pro, ProMotion, ARKit, LaMetric Time, and Nanoleaf Aurora whilst still finding time to wax lyrical about the Ring Video Doorbell.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our tenth show, we discuss chiropractors, the 10.5" iPad Pro, ProMotion, ARKit, LaMetric Time, and Nanoleaf Aurora whilst still finding time to wax lyrical about the Ring Video Doorbell.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/10.mp3" type="audio/mp3" length="64948061"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/10.mp3</guid>
+            <pubDate>Tue, 27 Jun 2017 14:00:00 GMT</pubDate>
+            <itunes:duration>1:39:37</itunes:duration>
+            <itunes:keywords>iPad Pro, ProMotion, ARKit, LaMetric Time, Nanoleaf Aurora, Ring, Apple, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>10</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/10.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>09. Vibram Furoshiki, Virgin Media, and a leaky tent. Oh, and WWDC (obvs)</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Lady in a tube.</itunes:subtitle>
