@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>11. Doctor Who, Nike &amp; the iPhone 3GS, multi-tasking with iOS 11 on iPad, DJI Spark, and collecting LEGO</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Where to put the LEGO?</itunes:subtitle>
+            <itunes:summary>In our eleventh show, we discuss the BBC license fee, the new Doctor Who, running on a treadmill with the Apple Watch, multi-tasking on iOS 11 with the iPad, the DJI Spark drone, and our growing collections of LEGO. Ben also sings the Airwolf theme tune...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our eleventh show, we discuss the BBC license fee, the new Doctor Who, running on a treadmill with the Apple Watch, multi-tasking on iOS 11 with the iPad, the DJI Spark drone, and our growing collections of LEGO. Ben also sings the Airwolf theme tune....&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/11.mp3" type="audio/mp3" length="50613800"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/11.mp3</guid>
+            <pubDate>Thu, 20 Jul 2017 15:20:00 GMT</pubDate>
+            <itunes:duration>1:19:51</itunes:duration>
+            <itunes:keywords>Doctor Who, BBC, Nike, iPhone, iOS 11, DJI Spark, LEGO, Apple, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>11</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/11.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>10. New iPad Pro, iOS 11, ARKit, and connected devices we've been tinkering with</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Going Stallone on my neck.</itunes:subtitle>
