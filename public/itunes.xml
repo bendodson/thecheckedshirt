@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>12. LEGO Millennium Falcon, The Rock vs Siri 'Movie', HomePod firmware leaks, iPhone Pro, LTE Apple Watch, and the Apple SIM</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>TARDISloo leaks and HomePod leaks</itunes:subtitle>
+            <itunes:summary>In our twelth show, we discuss the soon to be announced LEGO UCS Millennium Falcon and 'The Rock vs Siri' adverts before diving into the treasure trove of tidbits from the HomePod firmware leak including our thoughts on the iPhone Pro and its status bar along with discussion around an LTE Apple Watch.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twelth show, we discuss the soon to be announced LEGO UCS Millennium Falcon and 'The Rock vs Siri' adverts before diving into the treasure trove of tidbits from the HomePod firmware leak including our thoughts on the iPhone Pro and its status bar along with discussion around an LTE Apple Watch.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/12.mp3" type="audio/mp3" length="57820982"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/12.mp3</guid>
+            <pubDate>Wed, 17 Aug 2017 12:00:00 GMT</pubDate>
+            <itunes:duration>1:29:55</itunes:duration>
+            <itunes:keywords>LEGO, UCS, The Rock, Siri, HomePod, iPhone Pro, LTE Apple Watch, Apple SIM, Tech, Apple</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>12</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/12.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>11. Doctor Who, Nike &amp; the iPhone 3GS, multi-tasking with iOS 11 on iPad, DJI Spark, and collecting LEGO</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Where to put the LEGO?</itunes:subtitle>
