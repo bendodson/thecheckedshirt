@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>13. Mobile Prototyping and Design, UCS Millennium Falcon, iPhone 8 Event, Apple Watch bands, In-App Purchases with kids</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Rough night... my wife snores"</itunes:subtitle>
+            <itunes:summary>In our thirteenth show, we discuss our approach to prototyping and designing for iOS / Android, the LEGO UCS Millennium Falcon, the upcoming "iPhone 8" event, Apple Watch bands, and the dangers of in-app purchases when your family account isn't working correctly.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirteenth show, we discuss our approach to prototyping and designing for iOS / Android, the LEGO UCS Millennium Falcon, the upcoming "iPhone 8" event, Apple Watch bands, and the dangers of in-app purchases when your family account isn't working correctly.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/13.mp3" type="audio/mp3" length="54030149"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/13.mp3</guid>
+            <pubDate>Fri, 1 Sep 2017 12:00:00 GMT</pubDate>
+            <itunes:duration>1:21:36</itunes:duration>
+            <itunes:keywords>Mobile, Freelance, Dev, Prototype, UCS Millennium Falcon, iPhone 8, Apple Watch, IAP, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>13</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/13.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>12. LEGO Millennium Falcon, The Rock vs Siri 'Movie', HomePod firmware leaks, iPhone Pro, LTE Apple Watch, and the Apple SIM</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>TARDISloo leaks and HomePod leaks</itunes:subtitle>
