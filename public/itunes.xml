@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>14. iOS 11 GM Leak and all the announcements from Apple's first event at the Steve Jobs Theatre</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Hey Siri, how do I deliver a baby?"</itunes:subtitle>
+            <itunes:summary>In our fourteenth show, we discuss the leaked iOS 11 GM beta before diving into yesterdays Apple presentation at the Steve Jobs Theatre including the Apple Watch Series 3, Apple TV 4K, iPhone 8, and iPhone X.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our fourteenth show, we discuss the leaked iOS 11 GM beta before diving into yesterdays Apple presentation at the Steve Jobs Theatre including the Apple Watch Series 3, Apple TV 4K, iPhone 8, and iPhone X.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/14.mp3" type="audio/mp3" length="60912125"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/14.mp3</guid>
+            <pubDate>Wed, 13 Sep 2017 12:00:00 GMT</pubDate>
+            <itunes:duration>1:31:34</itunes:duration>
+            <itunes:keywords>Apple, Steve Jobs Theatre, Apple Watch Series 3, iPhone 8, iPhone 8 Plus, iPhone X, Apple TV 4K, Leak, iOS 11, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>14</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/14.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>13. Mobile Prototyping and Design, UCS Millennium Falcon, iPhone 8 Event, Apple Watch bands, In-App Purchases with kids</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Rough night... my wife snores"</itunes:subtitle>
