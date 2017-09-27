@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>15. South West Trains, Taxes, Apple Watch Series 3, iPhone 8 / X, Design Mockups, "The Notch", TrueTone, Supply Chain, and iOS 11 setup process</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"It feels bigger in your hand"</itunes:subtitle>
+            <itunes:summary>In our fifteenth show, we discuss Jason's failed journeys to the Big Smoke, death by taxes, our experience of the cellular Apple Watch, our usage of the iPhone 8, anticipation for the iPhone X, critical design around "The Notch", and the setup process when using iOS 11 and watchOS 4.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our fifteenth show, we discuss Jason's failed journeys to the Big Smoke, death by taxes, our experience of the cellular Apple Watch, our usage of the iPhone 8, anticipation for the iPhone X, critical design around "The Notch", and the setup process when using iOS 11 and watchOS 4.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/15.mp3" type="audio/mp3" length="53235022"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/15.mp3</guid>
+            <pubDate>Wed, 27 Sep 2017 14:00:00 GMT</pubDate>
+            <itunes:duration>1:26:51</itunes:duration>
+            <itunes:keywords>Apple, Apple Watch Series 3, iPhone 8, iPhone 8 Plus, iPhone X, iOS 11, Notch, TrueTone, South West Trains, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>15</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/15.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>14. iOS 11 GM Leak and all the announcements from Apple's first event at the Steve Jobs Theatre</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Hey Siri, how do I deliver a baby?"</itunes:subtitle>
