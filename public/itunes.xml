@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>16. Twitter, iPhone X Supply &amp; Pre-Orders, FM Radios, Pixel 2, Wireless Charging, Sonos One, and Alexa</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"The call is coming from inside the house"</itunes:subtitle>
+            <itunes:summary>In our sixteenth show, we discuss Twitter, enabling FM Radios in the iPhone, the Google Pixel 2, Wireless Charging, the Sonos One, and the new Echo devices announced by Amazon. Ben also has a rumour regarding iPhone X supply...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our sixteenth show, we discuss Twitter, enabling FM Radios in the iPhone, the Google Pixel 2, Wireless Charging, the Sonos One, and the new Echo devices announced by Amazon. Ben also has a rumour regarding iPhone X supply...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/16.mp3" type="audio/mp3" length="63758590"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/16.mp3</guid>
+            <pubDate>Thu, 19 Oct 2017 14:00:00 GMT</pubDate>
+            <itunes:duration>1:42:58</itunes:duration>
+            <itunes:keywords>Apple, Twitter, iPhone X, FM, Pixel 2, Wireless Charging, Sonos, Alexa, Echo, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>16</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/16.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>15. South West Trains, Taxes, Apple Watch Series 3, iPhone 8 / X, Design Mockups, "The Notch", TrueTone, Supply Chain, and iOS 11 setup process</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"It feels bigger in your hand"</itunes:subtitle>
