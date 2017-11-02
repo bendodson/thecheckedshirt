@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>17. iPhone X Pre-Order, Apple's Press Strategy, Pixel 2 XL Problems, Razer Phone, iPad Multitasking, Dongles, and AstroPad Camera Button</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"You're lazy and you've failed at user interface design"</itunes:subtitle>
+            <itunes:summary>In our seventeenth show, we discuss Apple's press stategy around the iPhone X reviews, our iPhone X pre-orders, problems with the Pixel 2 XL OLED screen, the newly announced Razer phone, multitasking on the iPad, USB-C dongles, and the AstroPad app rejection. Jason also has a few things to say about HSBCs intelligent fraud detection...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our seventeenth show, we discuss Apple's press stategy around the iPhone X reviews, our iPhone X pre-orders, problems with the Pixel 2 XL OLED screen, the newly announced Razer phone, multitasking on the iPad, USB-C dongles, and the AstroPad app rejection. Jason also has a few things to say about HSBCs intelligent fraud detection...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/17.mp3" type="audio/mp3" length="52656889"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/17.mp3</guid>
+            <pubDate>Thu, 2 Nov 2017 12:00:00 GMT</pubDate>
+            <itunes:duration>1:23:55</itunes:duration>
+            <itunes:keywords>Apple, iPhone X, Pixel 2 XL, Razer, iPad, AstroPad, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>17</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/17.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>16. Twitter, iPhone X Supply &amp; Pre-Orders, FM Radios, Pixel 2, Wireless Charging, Sonos One, and Alexa</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"The call is coming from inside the house"</itunes:subtitle>
