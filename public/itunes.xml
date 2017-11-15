@@ -25,6 +25,26 @@
         <itunes:category text="Technology" />
         <itunes:category text="Tech News" />
 
+
+        <item>
+            <title>18. The Notch, maintaining old projects, maps, wireless power, iPhone X charging, phone cases, Face ID, and taxation</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Switched my brain off - don't need it for driving"</itunes:subtitle>
+            <itunes:summary>In our eighteenth show, we review the iPhone X with a large number of tangents into physical maps, true wireless power, phone cases, and the murky world of corporate taxation.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our eighteenth show, we review the iPhone X with a large number of tangents into physical maps, true wireless power, phone cases, and the murky world of corporate taxation.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/18.mp3" type="audio/mp3" length="65704306"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/18.mp3</guid>
+            <pubDate>Wed, 15 Nov 2017 13:00:00 GMT</pubDate>
+            <itunes:duration>1:41:31</itunes:duration>
+            <itunes:keywords>Apple, iPhone X, Freelancing, Maps, Wireless Charging, Phone Cases, Face ID, Taxation, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>18</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/18.jpg</tcsbackground>
+        </item>
+
         <item>
             <title>17. iPhone X Pre-Order, Apple's Press Strategy, Pixel 2 XL Problems, Razer Phone, iPad Multitasking, Dongles, and AstroPad Camera Button</title>
             <itunes:author>The Checked Shirt</itunes:author>
