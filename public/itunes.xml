@@ -27,6 +27,25 @@
 
 
         <item>
+            <title>19. Updating macOS, iOS 11 date bug, macOS root exploit, HomePod, Xbox One X, Oculus Rift, and VR</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"My iphone is a bit warm, I'm going to get a Galaxy Note 7 instead"</itunes:subtitle>
+            <itunes:summary>In our nineteenth show, we take a look at some of the recent high profile bugs to come out of Apple, the delay of the HomePod, the recent release of the Xbox One X, and Ben's purchase of an Oculus Rift. We gently gloss over Ben's unfortunate iPhone X accident...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our nineteenth show, we take a look at some of the recent high profile bugs to come out of Apple, the delay of the Homepod, the recent release of the Xbox One X, and Ben's purchase of an Oculus Rift. We gently gloss over Ben's unfortunate iPhone X accident...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/19.mp3" type="audio/mp3" length="44648113"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/19.mp3</guid>
+            <pubDate>Fri, 8 Dec 2017 09:00:00 GMT</pubDate>
+            <itunes:duration>1:07:31</itunes:duration>
+            <itunes:keywords>Apple, macOS, iOS, root, HomePod, Xbox One X, Oculus Rift, VR, Tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>19</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/19.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>18. The Notch, maintaining old projects, maps, wireless power, iPhone X charging, phone cases, Face ID, and taxation</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Switched my brain off - don't need it for driving"</itunes:subtitle>
