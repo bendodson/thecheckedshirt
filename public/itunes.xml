@@ -25,6 +25,24 @@
         <itunes:category text="Technology" />
         <itunes:category text="Tech News" />
 
+        <item>
+            <title>20. Batteries, Parental Controls, iOS apps on macOS, HomePod, Echo, Ring, and Beats</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Shiny! Sparkle like a wealthy woman's neck."</itunes:subtitle>
+            <itunes:summary>In our twentieth show (after an extended Christmas break), we catch up on Ben's broken iPhone X screen, the saga of the iPhone batteries, parental controls, Circle by Disney, running iOS apps on a mac, the iMac Pro, the upcoming HomePod, and our recent purchases from Echo, Ring, and Beats.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twentieth show (after an extended Christmas break), we catch up on Ben's broken iPhone X screen, the saga of the iPhone batteries, parental controls, Circle by Disney, running iOS apps on a mac, the iMac Pro, the upcoming HomePod, and our recent purchases from Echo, Ring, and Beats.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/20.mp3" type="audio/mp3" length="78700676"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/20.mp3</guid>
+            <pubDate>Thu, 25 Jan 2018 14:00:00 GMT</pubDate>
+            <itunes:duration>2:08:41</itunes:duration>
+            <itunes:keywords>Apple, macOS, iOS, HomePod, Circle, Echo, Alexa, Ring, Moana</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>20</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/20.jpg</tcsbackground>
+        </item>
 
         <item>
             <title>19. Updating macOS, iOS 11 date bug, macOS root exploit, HomePod, Xbox One X, Oculus Rift, and VR</title>
