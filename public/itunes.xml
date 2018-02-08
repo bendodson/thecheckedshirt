@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>21. Pre-ordering HomePod, Sonos surround sound, Fortnite, Mavic Air, Landrover Discovery, App Store rejections, Native vs Web, and Homebrdige</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Even Higher Sierra"</itunes:subtitle>
+            <itunes:summary>In our twenty-first show we talk about HomePod pre-orders, adding Sonos Play:1 to a Sonos Playbar, Fortnite on Xbox One, the Mavic Air, Landrover Discovery, App Store Rejections, Homebridge, and how apps are going to be destroyed by progressive websites (joke).</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-first show we talk about HomePod pre-orders, adding Sonos Play:1 to a Sonos Playbar, Fortnite on Xbox One, the Mavic Air, Landrover Discovery, App Store Rejections, Homebridge, and how apps are going to be destroyed by progressive websites (joke).&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/21.mp3" type="audio/mp3" length="54625267"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/21.mp3</guid>
+            <pubDate>Thu, 8 Feb 2018 14:00:00 GMT</pubDate>
+            <itunes:duration>1:25:38</itunes:duration>
+            <itunes:keywords>Apple, HomePod, Sonos, Fortnite, Mavic Air, Landrover Discovery, App Store, Homebridge, native, web, tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>21</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/21.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>20. Batteries, Parental Controls, iOS apps on macOS, HomePod, Echo, Ring, and Beats</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Shiny! Sparkle like a wealthy woman's neck."</itunes:subtitle>
