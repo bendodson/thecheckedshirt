@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>22. Alto's Odyssey, iOS game controls, Nintendo Switch, Xbox streaming, Eero, HomePod, Siri, Philips Hue, and Sonos Setup </title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Hey Siri, what's a coaster?"</itunes:subtitle>
+            <itunes:summary>In our twenty-second show we talk about Alto's Odyssey, touch controls for iOS games, the Nintendo Switch, streaming an Xbox game to macOS, Eero networks, the Philips Hue app, and getting set up with Sonos. We also talk about our HomePod experience and how to improve Siri.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-second show we talk about Alto's Odyssey, touch controls for iOS games, the Nintendo Switch, streaming an Xbox game to macOS, Eero networks, the Philips Hue app, and getting set up with Sonos. We also talk about our HomePod experience and how to improve Siri.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/22.mp3" type="audio/mp3" length="58001819"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/22.mp3</guid>
+            <pubDate>Thu, 22 Feb 2018 14:00:00 GMT</pubDate>
+            <itunes:duration>1:31:34</itunes:duration>
+            <itunes:keywords>Apple, HomePod, Sonos, alto odyssey, iOS, nintendo switch, Xbox, Eero, Siri, tech</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>22</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/22.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>21. Pre-ordering HomePod, Sonos surround sound, Fortnite, Mavic Air, Landrover Discovery, App Store rejections, Native vs Web, and Homebridge</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Even Higher Sierra"</itunes:subtitle>
