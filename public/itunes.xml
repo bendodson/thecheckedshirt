@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>23. Skype, Client Contact, Upwork, NDAs, and Value Pricing.</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>"Every time I turn up to a meeting, I want a big tube of smarties"</itunes:subtitle>
+            <itunes:summary>In our twenty-third show we actually stick to the point of the podcast and talk about freelance life including the terrible UI of Skype, how we stay in contact with our clients, the horror that is Upwork, NDAs and when to sign them, and our experiments in Value Pricing.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-third show we actually stick to the point of the podcast and talk about freelance life including the terrible UI of Skype, how we stay in contact with our clients, the horror that is Upwork, NDAs and when to sign them, and our experiments in Value Pricing.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/23.mp3" type="audio/mp3" length="50921414"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/23.mp3</guid>
+            <pubDate>Thu, 8 Mar 2018 12:30:00 GMT</pubDate>
+            <itunes:duration>1:23:07</itunes:duration>
+            <itunes:keywords>freelancing, contracting, clients, skype, upwork, nda, value pricing, freelance</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>23</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/23.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>22. Alto's Odyssey, iOS game controls, Nintendo Switch, Xbox streaming, Eero, HomePod, Siri, Philips Hue, and Sonos Setup </title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Hey Siri, what's a coaster?"</itunes:subtitle>
