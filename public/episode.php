@@ -114,23 +114,23 @@ function humanTime($time) {
 
 		<meta property="og:locale" content="en" />
 		<meta property="og:type" content="website" />
-		<meta property="og:title" content="The Checked Shirt" />
-		<meta property="og:description" content="A podcast about app development freelance life" />
-		<meta property="og:url" content="https://thecheckedshirt.com/" />
+		<meta property="og:title" content="<?php echo $episode->title ?> - Episode #<?php echo (int)$_GET['index'] ?> of The Checked Shirt" />
+		<meta property="og:description" content="<?php echo $itunes->summary ?>" />
+		<meta property="og:url" content="https://thecheckedshirt.com/episode-<?php echo (int)$_GET['index'] ?>" />
 		<meta property="og:site_name" content="The Checked Shirt" />
-		<meta property="og:image" content="https://bendodson.s3.amazonaws.com/tcs/icon.png" />
+		<meta property="og:image" content="<?php echo $episode->tcsbackground ?>" />
 
 		<!-- =================================== -->
 		<!-- 			  TWITTER 				 -->
 		<!-- =================================== -->
 
 		<meta name="twitter:card" content="summary" />
-		<meta name="twitter:site" content="https://thecheckedshirt.com" />
+		<meta name="twitter:site" content="https://thecheckedshirt.com/episode-<?php echo (int)$_GET['index'] ?>" />
 		<meta name="twitter:creator" content="@thecheckedshirt" />
-		<meta name="twitter:title" content="The Checked Shirt" />
-		<meta name="twitter:description" content="A podcast about app development freelance life" />
+		<meta name="twitter:title" content="<?php echo $episode->title ?> - Episode #<?php echo (int)$_GET['index'] ?> of The Checked Shirt" />
+		<meta name="twitter:description" content="<?php echo $itunes->summary ?>" />
 		<meta name="twitter:domain" content="thecheckedshirt" />
-		<meta name="twitter:image" content="https://bendodson.s3.amazonaws.com/tcs/icon.png" />
+		<meta name="twitter:image" content="<?php echo $episode->tcsbackground ?>" />
 
 		<!-- =================================== -->
 		<!-- 			  FAVICON 				 -->
