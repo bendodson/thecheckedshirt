@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>24. Apple education event, iPad, Designed by Apple in California, Ember mug, 4K/5K monitors, Duet Display, AirPlay, and Virgin Media WiFi.</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Editing a VHS on an Amiga</itunes:subtitle>
+            <itunes:summary>In our twenty-fourth show we discuss the recent education event by Apple, the new iPad vs iPad Mini 4, Jonny Ive's "Designed by Apple in California" book, the Ember mug, and a whole host of stuff regarding monitors, Duet Display, and AirPlay. We may also have resolved some WiFi clashes...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-fourth show we discuss the recent education event by Apple, the new iPad vs iPad Mini 4, Jonny Ive's "Designed by Apple in California" book, the Ember mug, and a whole host of stuff regarding monitors, Duet Display, and AirPlay. We may also have resolved some WiFi clashes...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/24.mp3" type="audio/mp3" length="74572276"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/24.mp3</guid>
+            <pubDate>Thu, 8 Mar 2018 12:30:00 GMT</pubDate>
+            <itunes:duration>1:17:40</itunes:duration>
+            <itunes:keywords>apple, tech, education, ipad, designed by apple in california, ember mug, monitors, 4k, 5k, duet display, airplay, virgin media, wifi</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>24</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/24.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>23. Skype, Client Contact, Upwork, NDAs, and Value Pricing.</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>"Every time I turn up to a meeting, I want a big tube of smarties"</itunes:subtitle>
