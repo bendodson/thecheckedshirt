@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>25. Bluetooth, broadband speeds, Apple TV 4K, Facebook, iOS 11.3 battery, iMac Pro repairs, 2019 Mac Pro, ARM CPUs, Leaks, NDAs, and the LEGO UCS Y-Wing.</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Moaning about moaners</itunes:subtitle>
+            <itunes:summary>In our twenty-fifth show we discuss the bluetooth, our broadband updates, Ben's Apple TV 4K, the Facebook senate hearings, iOS 11.3 battery issues, Linus' iMac Pro repair, our hopes for the 2019 Mac Pro, ARM CPUs in Macs, Apple Leaks, and the LEGO UCS Y-Wing.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-fifth show we discuss the bluetooth, our broadband updates, Ben's Apple TV 4K, the Facebook senate hearings, iOS 11.3 battery issues, Linus' iMac Pro repair, our hopes for the 2019 Mac Pro, ARM CPUs in Macs, Apple Leaks, and the LEGO UCS Y-Wing.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/25.mp3" type="audio/mp3" length="106532779"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/24.mp3</guid>
+            <pubDate>Thu, 19 Apr 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>1:50:58</itunes:duration>
+            <itunes:keywords>apple, tech, broadband, bluetooth, Apple TV, Facebook, iOS, imac Pro, Mac Pro, ARM, leaks, LEGO, UCS, Y-Wing</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>25</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/25.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>24. Apple education event, iPad, Designed by Apple in California, Ember mug, 4K/5K monitors, Duet Display, AirPlay, and Virgin Media WiFi.</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Editing a VHS on an Amiga...</itunes:subtitle>
