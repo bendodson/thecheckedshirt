@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>26. Dyson Pure Cool, HomeKit, Ring, Toys in the '80s, Mesh networking, Hue lighting, Home app, WWDC 2018, UIKit for macOS, Skeumorphism, and Google IO.</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Drench your house in WiFi</itunes:subtitle>
+            <itunes:summary>In our twenty-sixth show we discuss the Dyson Pure Cool, HomeKit, installing a Ring Floodlight Cam, how toys were made in the '80s, mesh networks, why Apple's "Home" app sucks, rumours about WWDC 2018, running iOS apps on the Mac, and Google IO. Ben also gets nostalgic for skeumorphism...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-sixth show we discuss the Dyson Pure Cool, HomeKit, installing a Ring Floodlight Cam, how toys were made in the '80s, mesh networks, why Apple's "Home" app sucks, rumours about WWDC 2018, running iOS apps on the Mac, and Google IO. Ben also gets nostalgic for skeumorphism...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/26.mp3" type="audio/mp3" length="98659264"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/26.mp3</guid>
+            <pubDate>Wed, 9 May 2018 14:00:00 GMT</pubDate>
+            <itunes:duration>1:42:46</itunes:duration>
+            <itunes:keywords>apple, tech, dyson, homekit, ring, mesh networking, home, wwdc, macOS, marzipan, Google IO</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>26</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/26.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>25. Bluetooth, broadband speeds, Apple TV 4K, Facebook, iOS 11.3 battery, iMac Pro repairs, 2019 Mac Pro, ARM CPUs, Leaks, NDAs, and the LEGO UCS Y-Wing.</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Moaning about moaners</itunes:subtitle>
@@ -35,7 +54,7 @@
             </content:encoded>
             <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
             <enclosure url="https://bendodson.s3.amazonaws.com/tcs/25.mp3" type="audio/mp3" length="106532779"/>
-            <guid>https://bendodson.s3.amazonaws.com/tcs/24.mp3</guid>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/25.mp3</guid>
             <pubDate>Thu, 19 Apr 2018 12:00:00 GMT</pubDate>
             <itunes:duration>1:50:58</itunes:duration>
             <itunes:keywords>apple, tech, broadband, bluetooth, Apple TV, Facebook, iOS, imac Pro, Mac Pro, ARM, leaks, LEGO, UCS, Y-Wing</itunes:keywords>
