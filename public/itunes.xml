@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>27. WWDC 2018, iOS 12, WatchOS 5, Siri, ARKit 2, Siri Shortcuts, iOS apps on macOS, dark modes, and Memoji.</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>2 GPS chips and 3 breakdown services</itunes:subtitle>
+            <itunes:summary>In our twenty-seventh show we chat about all the announcements at WWDC 2018 including iOS 12 and watchOS 5. We also discuss Ben's Landrover, how to use Siri correctly, using machine learning with ARKit 2, Siri Shortcuts, iOS apps on macOS, Memoji, and how a dark mode might work on iOS. Oh, and of course we talk about Ring as per usual.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-seventh show we chat about all the announcements at WWDC 2018 including iOS 12 and watchOS 5. We also discuss Ben's Landrover, how to use Siri correctly, using machine learning with ARKit 2, Siri Shortcuts, iOS apps on macOS, Memoji, and how a dark mode might work on iOS. Oh, and of course we talk about Ring as per usual.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/27.mp3" type="audio/mp3" length="61612673"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/27.mp3</guid>
+            <pubDate>Wed, 9 July 2018 10:00:00 GMT</pubDate>
+            <itunes:duration>1:22:41</itunes:duration>
+            <itunes:keywords>apple, tech, wwdc, 2018, ios 12, watchos 5, siri, arkit 2, siri shortcuts, macOS, dark mode, memoji, landrover, aa car genie, ring</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>27</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/27.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>26. Dyson Pure Cool, HomeKit, Ring, Toys in the '80s, Mesh networking, Hue lighting, Home app, WWDC 2018, UIKit for macOS, Skeumorphism, and Google IO.</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Drench your house in WiFi</itunes:subtitle>
