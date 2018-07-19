@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>28. Remote work, MacBook Pro 2018, power throttling, SSDs, macOS migration, backups, iOS 12 beta, Shortcuts, Screen Time, AirPlay 2, eGPUs, and LEGO James Bond</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Are you using your laptop as the dishwasher has stopped working</itunes:subtitle>
+            <itunes:summary>In our twenty-eight show we chat about remote working, the new MacBook Pro (along with power throttling and SSDs), migrating macOS to a new machine, our backup strategies, the iOS 12 beta, Shortcuts app, Screen Time, AirPlay 2 with Sonos, eGPUs, and the LEGO James Bond Aston Martin. We also have a moan about the weather...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-eight show we chat about remote working, the new MacBook Pro (along with power throttling and SSDs), migrating macOS to a new machine, our backup strategies, the iOS 12 beta, Shortcuts app, Screen Time, AirPlay 2 with Sonos, eGPUs, and the LEGO James Bond Aston Martin. We also have a moan about the weather...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/28.mp3" type="audio/mp3" length="86708168"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/28.mp3</guid>
+            <pubDate>Wed, 19 July 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>1:45:43</itunes:duration>
+            <itunes:keywords>apple, tech, remote work, freelance, macbook pro, throttling, ssd, macOS, backup, iOS 12, shortcuts, screen time, airplay 2, egpu, lego james bond</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>28</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/28.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>27. WWDC 2018, iOS 12, WatchOS 5, Siri, ARKit 2, Siri Shortcuts, iOS apps on macOS, dark modes, and Memoji.</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>2 GPS chips and 3 breakdown services</itunes:subtitle>
@@ -36,7 +55,7 @@
             <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
             <enclosure url="https://bendodson.s3.amazonaws.com/tcs/27.mp3" type="audio/mp3" length="61612673"/>
             <guid>https://bendodson.s3.amazonaws.com/tcs/27.mp3</guid>
-            <pubDate>Wed, 9 July 2018 10:00:00 GMT</pubDate>
+            <pubDate>Mon, 9 July 2018 10:00:00 GMT</pubDate>
             <itunes:duration>1:22:41</itunes:duration>
             <itunes:keywords>apple, tech, wwdc, 2018, ios 12, watchos 5, siri, arkit 2, siri shortcuts, macOS, dark mode, memoji, landrover, aa car genie, ring</itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
