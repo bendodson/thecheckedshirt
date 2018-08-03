@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>29. macOS Mojave, iOS 12, the original iPad, new iPad rumours, FaceID, TouchArcade, affiliate links, freelance whales, working with agencies, and dealing with difficult clients.</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Patreon attention seeking bastards</itunes:subtitle>
+            <itunes:summary>In our twenty-ninth show we chat about the macOS Mojave and iOS 12 betas, the very first iPad, rumours of the upcoming iPad and FaceID, and then look at the affiliate links issue affecting TouchArcade. We then talk actual freelance stuff with whale clients, working with agencies, and how to deal with difficult projects.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our twenty-ninth show we chat about the macOS Mojave and iOS 12 betas, the very first iPad, rumours of the upcoming iPad and FaceID, and then look at the affiliate links issue affecting TouchArcade. We then talk actual freelance stuff with whale clients, working with agencies, and how to deal with difficult projects.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/29.mp3" type="audio/mp3" length="53075080"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/29.mp3</guid>
+            <pubDate>Fri, 3 August 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>1:06:34</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>29</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/29.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>28. Remote work, MacBook Pro 2018, power throttling, SSDs, macOS migration, backups, iOS 12 beta, Shortcuts, Screen Time, AirPlay 2, eGPUs, and LEGO James Bond</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Are you using your laptop as the dishwasher has stopped working</itunes:subtitle>
