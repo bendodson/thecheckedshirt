@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>30. Travelling with kids, GoPro Fusion, MacBook Pro charging, cellular plans on Apple Watch, product launch secrecy, and our predictions on new iPhones, iPads, and Apple Watches!</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>500 kettle bells vs 2 twix bars</itunes:subtitle>
+            <itunes:summary>In our thirtieth show we chat about the difficulties of travelling with children and tech, the GoPro Fusion, issues charging the MacBook Pro with Mojave, how cellular works on the Apple Watch, and the secrecy around new product launches. We also talk about our predictions and wishes for the upcoming refreshes of the Apple Watch, iPad, and iPhone.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirtieth show we chat about the difficulties of travelling with children and tech, the GoPro Fusion, issues charging the MacBook Pro with Mojave, how cellular works on the Apple Watch, and the secrecy around new product launches. We also talk about our predictions and wishes for the upcoming refreshes of the Apple Watch, iPad, and iPhone.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/30.mp3" type="audio/mp3" length="91309266"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/30.mp3</guid>
+            <pubDate>Thu, 30 August 2018 12:00:00 GMT</pubDate>
+            <itunes:duration>1:52:10</itunes:duration>
+            <itunes:keywords></itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>30</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/30.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>29. macOS Mojave, iOS 12, the original iPad, new iPad rumours, FaceID, TouchArcade, affiliate links, freelance whales, working with agencies, and dealing with difficult clients.</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Patreon attention seeking bastards</itunes:subtitle>
