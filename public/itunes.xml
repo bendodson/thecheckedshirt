@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>31. Thoughts on the "Gather Round" event with Apple Watch Series 4, iPhone XS, iPhone XS Max, and iPhone XR</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>I am drunk</itunes:subtitle>
+            <itunes:summary>In our thirty-first show we chat about Apple's very recent "Gather Round" event which unveiled the Apple Watch Series 4, iPhone XS, iPhone XS Max, and iPhone XR. We talk about Tim's tweet, Jeff's sullen tones, Kevin's warping, and the inevitably undesirable third party demos. We also reveal what we're purchasing and give our top tips for pre-order day (although it's a bit late now).</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-first show we chat about Apple's very recent "Gather Round" event which unveiled the Apple Watch Series 4, iPhone XS, iPhone XS Max, and iPhone XR. We talk about Tim's tweet, Jeff's sullen tones, Kevin's warping, and the inevitably undesirable third party demos. We also reveal what we're purchasing and give our top tips for pre-order day (although it's a bit late now).&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/31.mp3" type="audio/mp3" length="116547255"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/31.mp3</guid>
+            <pubDate>Fri, 14 August 2018 07:00:00 GMT</pubDate>
+            <itunes:duration>2:22:53</itunes:duration>
+            <itunes:keywords>apple, tech, gather round, iphone xs, iphone xs max, iphone xr, apple watch, series 4, tim cook</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>31</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/31.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>30. Travelling with kids, GoPro Fusion, MacBook Pro charging, cellular plans on Apple Watch, product launch secrecy, and our predictions on new iPhones, iPads, and Apple Watches!</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>500 kettle bells vs 2 twix bars</itunes:subtitle>
@@ -38,7 +57,7 @@
             <guid>https://bendodson.s3.amazonaws.com/tcs/30.mp3</guid>
             <pubDate>Thu, 30 August 2018 12:00:00 GMT</pubDate>
             <itunes:duration>1:52:10</itunes:duration>
-            <itunes:keywords></itunes:keywords>
+            <itunes:keywords>apple, tech, gopro fusion, macbook pro, cellular, apple watch, product launch, iPhone</itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
             <tcsepisode>30</tcsepisode>
             <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/30.jpg</tcsbackground>
@@ -57,7 +76,7 @@
             <guid>https://bendodson.s3.amazonaws.com/tcs/29.mp3</guid>
             <pubDate>Fri, 3 August 2018 12:00:00 GMT</pubDate>
             <itunes:duration>1:06:34</itunes:duration>
-            <itunes:keywords></itunes:keywords>
+            <itunes:keywords>apple, tech, macos, ipad, toucharcade, face id, freelance, clients, ios 12, beta</itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
             <tcsepisode>29</tcsepisode>
             <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/29.jpg</tcsbackground>

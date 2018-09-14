@@ -221,7 +221,7 @@ function humanTime($time) {
 								<figure class="team-card-image"><img src="https://bendodson.s3.amazonaws.com/tcs/ben.jpg" alt="Ben Dodson" title="Jason Kneen" /></figure>
 								<div class="team-card-content">
 									<h2 class="team-card-title">Ben Dodson</h2>
-									<p class="team-card-description">Ben is a freelance iOS, watchOS, and tvOS developer who splits his time between client projects and his own apps. He is an avid gamer and posts regular reviews and video game news on his <a href="https://kyloben.com/">Kylo Ben </a> website.</p>
+									<p class="team-card-description">Ben is a freelance iOS, watchOS, and tvOS developer who splits his time between client projects and his own apps. He is an avid gamer and posts regular reviews and video game news on his <a href="https://shyguys.io/">Shy Guys </a> website as well as regular <a href="https://twitch.tv/ShyGuysTheDod">Twitch streaming</a>.</p>
 									<ul class="team-card-social">
 										<li class="social-item"><a href="https://twitter.com/bendodson" target="_blank"><i class="fa fa-twitter"></i></a></li>
 										<li class="social-item"><a href="https://bendodson.com/" target="_blank"><i class="fa fa-link"></i></a></li>
