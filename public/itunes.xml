@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>32. Mojave, Refurbished iMac, Apple Watch Series 4, Siri's voice, AppleCare, iPhone XS / XS Max, Photography, and thoughts on the 2019 iPhone</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>I'm pro-nubbin</itunes:subtitle>
+            <itunes:summary>In our thirty-second show we talk about upgrading to Mojave and the new "Dark Mode", our pre-order experience, Jason's refurbished iMac, and a lot of detail on the Apple Watch Series 4 and iPhone XS now we've had a chance to play with them. We also wonder what the hell Apple are going to do next year...</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-second show we talk about upgrading to Mojave and the new "Dark Mode", our pre-order experience, Jason's refurbished iMac, and a lot of detail on the Apple Watch Series 4 and iPhone XS now we've had a chance to play with them. We also wonder what the hell Apple are going to do next year...&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/32.mp3" type="audio/mp3" length="90033129"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/32.mp3</guid>
+            <pubDate>Thu, 27 September 2018 13:00:00 GMT</pubDate>
+            <itunes:duration>1:56:03</itunes:duration>
+            <itunes:keywords>apple, tech, iphone xs, iphone xs max, apple watch, series 4, mojave, ios 12, applecare, photography, camera</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>32</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/32.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>31. Thoughts on the 'Gather Round' event with Apple Watch Series 4, iPhone XS, iPhone XS Max, and iPhone XR</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>I am drunk</itunes:subtitle>
@@ -36,7 +55,7 @@
             <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
             <enclosure url="https://bendodson.s3.amazonaws.com/tcs/31.mp3" type="audio/mp3" length="116547255"/>
             <guid>https://bendodson.s3.amazonaws.com/tcs/31.mp3</guid>
-            <pubDate>Fri, 14 August 2018 07:00:00 GMT</pubDate>
+            <pubDate>Fri, 14 September 2018 07:00:00 GMT</pubDate>
             <itunes:duration>2:22:53</itunes:duration>
             <itunes:keywords>apple, tech, gather round, iphone xs, iphone xs max, iphone xr, apple watch, series 4, tim cook</itunes:keywords>
             <itunes:explicit>yes</itunes:explicit>
