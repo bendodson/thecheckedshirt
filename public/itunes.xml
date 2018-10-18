@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>33. Dictation, charging the iPhone XS, Bloomberg, Bagel Emoji, Twitter, transferring cellular on Apple Watch, Photos, and the iPhone XR</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>In your frail dotage</itunes:subtitle>
+            <itunes:summary>In our thirty-third show we talk about how dictation used to work, why the iPhone XS doesn't charge properly, the crazy Bloomberg story about tiny microchips, the Bagel Emoji controversy, our use of Twitter, transferring cellular plans to a new Apple Watch, Photos on iOS, and the upcoming iPhone XR. Ben is about to have his first baby so we'll be on hiatus now until the new year!</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-third show we talk about how dictation used to work, why the iPhone XS doesn't charge properly, the crazy Bloomberg story about tiny microchips, the Bagel Emoji controversy, our use of Twitter, transferring cellular plans to a new Apple Watch, Photos on iOS, and the upcoming iPhone XR. Ben is about to have his first baby so we'll be on hiatus now until the new year!&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/33.mp3" type="audio/mp3" length="52064323"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/33.mp3</guid>
+            <pubDate>Thu, 18 October 2018 13:00:00 GMT</pubDate>
+            <itunes:duration>1:03:09</itunes:duration>
+            <itunes:keywords>apple, tech, iphone xs, iphone xs max, apple watch, iphone xr, dictation, bloomberg, bagel, twitter, photos</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>33</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/33.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>32. Mojave, Refurbished iMac, Apple Watch Series 4, Siri's voice, AppleCare, iPhone XS / XS Max, Photography, and thoughts on the 2019 iPhone</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>I'm pro-nubbin</itunes:subtitle>
