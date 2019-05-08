@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>34. Babies, iPad Hardware, MacBook keyboards, Samsung Galaxy Fold, AirPower, Oura Ring, Apple TV, Apple Arcade, Apple News+, Marzipan, and our WWDC software and hardware predictions!</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Yeah it's a stupid device</itunes:subtitle>
+            <itunes:summary>In our thirty-fourth show we return from the wilderness of childbirth to discuss the (fairly) recent iPad hardware releases, the ongoing MacBook keyboard debacle, the hilarious Samsung Galaxy Fold, the cancellation of AirPower, a whole host of other Apple announcements, and our predictions for Dub Dub.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-fourth show we return from the wilderness of childbirth to discuss the (fairly) recent iPad hardware releases, the ongoing MacBook keyboard debacle, the hilarious Samsung Galaxy Fold, the cancellation of AirPower, a whole host of other Apple announcements, and our predictions for Dub Dub.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/34.mp3" type="audio/mp3" length="79766265"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/34.mp3</guid>
+            <pubDate>Wed, 8 May 2019 13:00:00 GMT</pubDate>
+            <itunes:duration>1:41:20</itunes:duration>
+            <itunes:keywords>apple, tech, ipad, macbook keyboard, samsung galaxy fold, airpower, oura ring, apple tv, arcade, news, marzipan, wwdc</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>34</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/34.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>33. Dictation, charging the iPhone XS, Bloomberg, Bagel Emoji, Twitter, transferring cellular on Apple Watch, Photos, and the iPhone XR</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>In your frail dotage</itunes:subtitle>
