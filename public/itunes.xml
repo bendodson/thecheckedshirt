@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>35. Dentistry, 3D Printing, and a WWDC 2019 roundup (Mac Pro, Catalina, iOS 13, iPadOS, WatchOS, tvOS, and much more)</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>We needed to make a penguin with a hole in its bottom</itunes:subtitle>
+            <itunes:summary>In our thirty-fifth show cover all of Dub Dub 2019 (ugh) including the new Mac Pro and it's stand, macOS Catalina, iOS 13 and Dark Mode, iPadOS, WatchOS, tvOS, HomePod, SwiftUI, and Sign in with Apple.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-fifth show cover all of Dub Dub 2019 (ugh) including the new Mac Pro and it's stand, macOS Catalina, iOS 13 and Dark Mode, iPadOS, WatchOS, tvOS, HomePod, SwiftUI, and Sign in with Apple.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/35.mp3" type="audio/mp3" length="78773116"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/35.mp3</guid>
+            <pubDate>Tue, 11 Jun 2019 13:00:00 GMT</pubDate>
+            <itunes:duration>1:39:38</itunes:duration>
+            <itunes:keywords>apple, tech, mac pro, monitor, catalina, macos, ios 13, dark mode, watchos, ipados, swiftui, homepod, tvos, wwdc</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>35</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/35.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>34. Babies, iPad Hardware, MacBook keyboards, Samsung Galaxy Fold, AirPower, Oura Ring, Apple TV, Apple Arcade, Apple News+, Marzipan, and our WWDC software and hardware predictions!</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Yeah it's a stupid device</itunes:subtitle>
