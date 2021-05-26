@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>36. AirTags, HomePods, Apple Music Lossless, New Apple TV Remote, M1 iMac, Apple Watch gestures, and our WWDC 2021 Predictions </title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>When I've got to unlock it I just use the middle finger</itunes:subtitle>
+            <itunes:summary>In our thirty-sixth show following a 2 year hiatus, we cover all of the latest Apple releases (including AirTags, Apple TV, and the M1 iMac and iPad Pro) and try to guess what we might see at WWDC 2021.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-sixth show following a 2 year hiatus, we cover all of the latest Apple releases (including AirTags, Apple TV, and the M1 iMac and iPad Pro) and try to guess what we might see at WWDC 2021.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/36.mp3" type="audio/mp3" length="194053038"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/36.mp3</guid>
+            <pubDate>Wed, 26 May 2021 13:00:00 GMT</pubDate>
+            <itunes:duration>2:15:07</itunes:duration>
+            <itunes:keywords>apple, tech, airtags, lossless, apple tv, siri remote, m1, apple silicon, imac, apple watch, wwdc 2021, ipad pro</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>36</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/36.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>35. Dentistry, 3D Printing, and a WWDC 2019 roundup (Mac Pro, Catalina, iOS 13, iPadOS, WatchOS, tvOS, and much more)</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>We needed to make a penguin with a hole in its bottom</itunes:subtitle>
