@@ -26,6 +26,25 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>37. Dub Dub DC 2021</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Can't you just have a kettle where you press a button?</itunes:subtitle>
+            <itunes:summary>In our thirty-seventh we discuss all the announcements at WWDC 2021 such as SharePlay, LiveText, Maps, Spatial Audio, iPad Multitasking, Universal Control, and Xcode Cloud. We also comment on Kevin Lynch's growing paunch.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-seventh we discuss all the announcements at WWDC 2021 such as SharePlay, LiveText, Maps, Spatial Audio, iPad Multitasking, Universal Control, and Xcode Cloud. We also comment on Kevin Lynch's growing paunch..&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/37.mp3" type="audio/mp3" length="194730572"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/37.mp3</guid>
+            <pubDate>Thu, 24 Jun 2021 10:00:00 GMT</pubDate>
+            <itunes:duration>1:41:25</itunes:duration>
+            <itunes:keywords>apple, tech, wwdc 2021, shareplay, livetext, maps, spatial audio, ipados, multitasking, universal control, xcode cloud, ios 15</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>37</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/37.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>36. AirTags, HomePods, Apple Music Lossless, New Apple TV Remote, M1 iMac, Apple Watch gestures, and our WWDC 2021 Predictions </title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>When I've got to unlock it I just use the middle finger</itunes:subtitle>
