@@ -26,12 +26,31 @@
         <itunes:category text="Tech News" />
 
         <item>
+            <title>38. September 2022 Apple Keynote (iPhone 14, Apple Watch Ultra, Airpods Pro 2)</title>
+            <itunes:author>The Checked Shirt</itunes:author>
+            <itunes:subtitle>Sure would be a shame if your boat got a leak, wouldn't it?</itunes:subtitle>
+            <itunes:summary>In our thirty-eighth show we go over the various announcements from the September 2022 presentation including the iPhone 14, iPhone 14 Pro, AirPods Pro 2, Apple Watch Series 8, and the Apple Watch Ultra. We also resolve a 5 year bet on whether an iPhone would be released without any ports.</itunes:summary>
+            <content:encoded>
+                &lt;p&gt;In our thirty-eighth show we go over the various announcements from the September 2022 presentation including the iPhone 14, iPhone 14 Pro, AirPods Pro 2, Apple Watch Series 8, and the Apple Watch Ultra. We also resolve a 5 year bet on whether an iPhone would be released without any ports..&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
+            <enclosure url="https://bendodson.s3.amazonaws.com/tcs/38.mp3" type="audio/mp3" length="100651497"/>
+            <guid>https://bendodson.s3.amazonaws.com/tcs/38.mp3</guid>
+            <pubDate>Tue, 13 Sep 2022 14:00:00 GMT</pubDate>
+            <itunes:duration>1:28:43</itunes:duration>
+            <itunes:keywords>apple, tech, ios 16, iphone 14, iphone 14 pro, apple watch, series 8, apple watch ultra, airpods pro 2</itunes:keywords>
+            <itunes:explicit>yes</itunes:explicit>
+            <tcsepisode>38</tcsepisode>
+            <tcsbackground>https://bendodson.s3.amazonaws.com/tcs/38.jpg</tcsbackground>
+        </item>
+
+        <item>
             <title>37. Dub Dub DC 2021</title>
             <itunes:author>The Checked Shirt</itunes:author>
             <itunes:subtitle>Can't you just have a kettle where you press a button?</itunes:subtitle>
-            <itunes:summary>In our thirty-seventh we discuss all the announcements at WWDC 2021 such as SharePlay, LiveText, Maps, Spatial Audio, iPad Multitasking, Universal Control, and Xcode Cloud. We also comment on Kevin Lynch's growing paunch.</itunes:summary>
+            <itunes:summary>In our thirty-seventh show we discuss all the announcements at WWDC 2021 such as SharePlay, LiveText, Maps, Spatial Audio, iPad Multitasking, Universal Control, and Xcode Cloud. We also comment on Kevin Lynch's growing paunch.</itunes:summary>
             <content:encoded>
-                &lt;p&gt;In our thirty-seventh we discuss all the announcements at WWDC 2021 such as SharePlay, LiveText, Maps, Spatial Audio, iPad Multitasking, Universal Control, and Xcode Cloud. We also comment on Kevin Lynch's growing paunch..&lt;/p&gt;
+                &lt;p&gt;In our thirty-seventh show we discuss all the announcements at WWDC 2021 such as SharePlay, LiveText, Maps, Spatial Audio, iPad Multitasking, Universal Control, and Xcode Cloud. We also comment on Kevin Lynch's growing paunch..&lt;/p&gt;
             </content:encoded>
             <itunes:image href="https://bendodson.s3.amazonaws.com/tcs/icon.png"/>
             <enclosure url="https://bendodson.s3.amazonaws.com/tcs/37.mp3" type="audio/mp3" length="194730572"/>
